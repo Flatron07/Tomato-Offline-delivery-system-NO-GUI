@@ -1,6 +1,3 @@
-# Tomato-Offline-delivery-system-NO-GUI
-Tomato Offline delivery system NO GUI is a offline sql based commerce platform
-
 # Tomato Delivery Platform (CLI Edition)
 
 A command-line food ordering and delivery platform built using **Python** and **MySQL**. The project simulates a food delivery service where users can register, log in, browse restaurants, order food, apply discount coupons, view restaurant ratings, and place orders through a terminal-based interface. :contentReference[oaicite:0]{index=0}
